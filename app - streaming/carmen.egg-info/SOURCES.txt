@@ -1,0 +1,6 @@
+carmen.egg-info/PKG-INFO
+carmen.egg-info/SOURCES.txt
+carmen.egg-info/dependency_links.txt
+carmen.egg-info/requires.txt
+carmen.egg-info/top_level.txt
+carmen.egg-info/zip-safe
