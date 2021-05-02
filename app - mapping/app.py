@@ -86,7 +86,7 @@ def update_graph_live(n):
     gc.collect()
     
     # Loading data from Heroku PostgreSQL
-    DATABASE_URL= 'postgres://ondoitzgzsialv:77775a500c6f7d4db808d3709ccf1c275893ea9b3f631e1ab50687c3638be2ac@ec2-52-1-115-6.compute-1.amazonaws.com:5432/dee64c87blrg0l'
+    DATABASE_URL= ''
     conn = psycopg2.connect(DATABASE_URL, sslmode='require')
     
     # delete the tweets over a day ago
